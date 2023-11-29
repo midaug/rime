@@ -1,4 +1,3 @@
 ﻿build
-easy_en.userdb
-luna_pinyin.userdb
+*.userdb
 installation.yaml
